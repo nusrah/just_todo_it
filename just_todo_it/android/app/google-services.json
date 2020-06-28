@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "688535689799",
+    "firebase_url": "https://todo-list-app-flutter.firebaseio.com",
+    "project_id": "todo-list-app-flutter",
+    "storage_bucket": "todo-list-app-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688535689799:android:894b62b76f801a5206af62",
+        "android_client_info": {
+          "package_name": "com.example.JustTodoIt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688535689799-ttriqjhmnap89g07qc1q05h35lb9nhhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJ51n3I8qrZbbrdy9KIZ_44MTNCBt_0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688535689799-ttriqjhmnap89g07qc1q05h35lb9nhhd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "688535689799-jj140g7r038ie46skf7rkmc55e6pjs0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.JustTodoIt"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688535689799:android:23597356f471118506af62",
+        "android_client_info": {
+          "package_name": "com.example.just_todo_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688535689799-ttriqjhmnap89g07qc1q05h35lb9nhhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJ51n3I8qrZbbrdy9KIZ_44MTNCBt_0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688535689799-ttriqjhmnap89g07qc1q05h35lb9nhhd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "688535689799-jj140g7r038ie46skf7rkmc55e6pjs0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.JustTodoIt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
